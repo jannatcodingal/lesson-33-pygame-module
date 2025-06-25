@@ -1,6 +1,5 @@
 import pygame
 pygame.init()
-import pygame
 background_colour = (58, 58, 58)
 screen = pygame.display.set_mode((500, 500))
 pygame.display.set_caption('My First Game Screen')
